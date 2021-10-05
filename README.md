@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlGriffiths
 - 👀 I’m interested in frontend/fullstack roles
-- 🌱 I’m currently learning React and Node.js
+- 🌱 I’m currently learning and working with React and Node.js
 - 📫 Cotact me: carlgriffiths504@gmail.com
 
 <!---
